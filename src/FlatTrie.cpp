@@ -41,8 +41,4 @@ class Trie {
             numElements = 0;
 
         }
-
-        
-
-
 };
